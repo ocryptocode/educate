@@ -8,4 +8,4 @@ class AIPipeline (self, name , age):
     self.name = name
     self.age = age
 
-def signup
+def signup_form (name , login):
