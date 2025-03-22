@@ -1,5 +1,5 @@
 # educate
- The best education mastered with AI
+ The best education mastered with AI , a remarkable movement on our ecosystem
 
 ## benefits
 
