@@ -5,4 +5,4 @@
 
 Universities charge thousands of dollars , when you can learn everything with educate.
 
-The best AI.
+A revolutionary AI education system.
