@@ -2,6 +2,7 @@
 import torch
 import requests
 import sqlalchemy
+import alex
 
 
 
@@ -13,7 +14,7 @@ class AIPipeline (self, name , age):
 def signup_form (name , login):
 
 ## using aalex ##
-
+def 
 
 
 
