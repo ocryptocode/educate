@@ -1,6 +1,8 @@
 # educate
  The best education mastered with AI , a remarkable movement on our ecosystem
 
+## models
+
 ## benefits
 
 Universities charge thousands of dollars , when you can learn everything with educate.
