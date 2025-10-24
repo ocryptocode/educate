@@ -1,5 +1,5 @@
 # educate
- The best education mastered with AI , a remarkable movement on our ecosystem
+ The best education mastered with AI , a remarkable movement on the new ecosystem 
 
 ## models
 
