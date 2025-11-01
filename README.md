@@ -7,7 +7,7 @@
 
 Universities charge thousands of dollars , when you can learn everything with educate.
 
-A revolutionary AI education system.
+A revolutionary AI education system
 
 This is an education only powered by AI
 
@@ -15,5 +15,5 @@ This is an education only powered by AI
 
 aalex is the running AI that monitors our education system 
 
-we have apps available 
+we have apps available soon
 (https://GitHub.com/aalex)
