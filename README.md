@@ -11,9 +11,11 @@ A revolutionary AI education system
 
 This is an education only powered by AI
 
-## links to aalex
+## links to aalex and Vortex
 
 aalex is the running AI that monitors our education system 
+
+we have the funding from VORTEX
 
 we have apps available soon
 (https://GitHub.com/aalex)
