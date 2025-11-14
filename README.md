@@ -17,5 +17,5 @@ aalex is the running AI that monitors our education system
 
 we have the funding from VORTEX
 
-we have apps available soon
+we have apps available soon on
 (https://GitHub.com/aalex)
