@@ -3,6 +3,8 @@
 
 
 
+
+
 ## models
 nlp
 gpt
@@ -15,8 +17,13 @@ A revolutionary AI education system
 
 This is an education only powered by AI
 
+
+
+
 ## roadmap
 Q2 2026 - time schedule
+
+open for everyone soon
 
 ## links to aalex and Vortex
 aalex is the running AI that monitors our education system 
