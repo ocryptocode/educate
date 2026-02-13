@@ -9,6 +9,7 @@ nlp
 gpt
 bert
 
+
 ## benefits
 Universities charge thousands of dollars , when you can learn everything with educate.
 
@@ -19,8 +20,9 @@ This is an education only powered by AI
 
 
 
+
 ## roadmap
-Q2 2026 - time schedule
+Q3 2026 - time schedule
 
 open for everyone soon
 
