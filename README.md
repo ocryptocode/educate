@@ -1,7 +1,7 @@
 # educate
  The best education mastered with AI , a remarkable movement on the new ecosystem 
 
-hosted by vortex and aalex
+hosted by vortex, wolfist and aalex
 
 coming soon
 
@@ -9,6 +9,7 @@ coming soon
 nlp
 gpt
 bert
+
 
 
 
