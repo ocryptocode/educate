@@ -10,10 +10,11 @@ coming soon
 
 
 
-## models
+## models we use
 nlp
 gpt
 bert
+torch
 
 
 
