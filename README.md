@@ -3,7 +3,7 @@
 
 hosted by vortex, wolfist and aalex and viresi
 
-coming soon
+coming Q3 2026
 
 
 
