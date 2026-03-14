@@ -3,11 +3,7 @@
 
 hosted by vortex, wolfist and aalex and viresi
 
-coming Q3 2026..
-
-
-
-
+coming Q3 2026
 
 
 ## models we use
