@@ -7,8 +7,6 @@ hosted by vortex, wolfist and aalex and viresi
 coming soon Q3 2026
 
 
-
-
 ## models we use
 nlp
 
