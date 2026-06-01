@@ -12,12 +12,11 @@ coming soon Q3 2026
 
 ## models we use
 nlp
-
 gpt
-
 bert
-
 torch
+Leo 
+
 
 
 
