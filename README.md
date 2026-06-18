@@ -12,7 +12,6 @@ nlp
 gpt
 bert
 torch
-Leo 
 
 
 
