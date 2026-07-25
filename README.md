@@ -38,6 +38,8 @@ aalex is the running AI that monitors our education system
 
 we have the funding from VORTEX, our platform is gonna take place on that ecosystem
 
+## roadmap
+
 
 
 we have apps available soon on
