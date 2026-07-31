@@ -4,7 +4,6 @@ The best education mastered with AI , a remarkable movement on the new ecosystem
 hosted by vortex, wolfist and aalex and viresi
 
 
-
 coming soon Q3 2026
 
 ## models we use
