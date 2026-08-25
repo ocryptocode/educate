@@ -5,6 +5,9 @@ import sqlalchemy
 import alex
 
 
+# create app 
+
+
 
 # design the custom pipeline for class students
 class AIPipeline (self, name , age):
