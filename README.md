@@ -5,6 +5,8 @@ hosted by vortex, wolfist and aalex and viresi
 
 coming soon Q3 2026
 
+wolfist academy is currently hosting this app
+
 
 ## models used
 nlp
