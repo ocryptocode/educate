@@ -31,7 +31,7 @@ This is an education only powered by AI
 
 
 ## roadmap
-Q3 2026 - time schedule
+Q3 2026
 
 open for everyone soon
 
