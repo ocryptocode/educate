@@ -9,6 +9,8 @@ coming soon Q3 2026
 
 wolfist academy is currently hosting this app
 
+https://github.com/ocryptocode/aalex
+
 website : 
 
 ## models 
