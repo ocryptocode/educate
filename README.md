@@ -5,9 +5,6 @@ hosted by vortex, wolfist and aalex and viresi
 wolfist academy is currently hosting this app
 
 https://github.com/ocryptocode/aalex
-
-website : 
-
 ## models 
 nlp
 
