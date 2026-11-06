@@ -5,17 +5,6 @@ hosted by vortex, wolfist and aalex
 wolfist academy is currently hosting this app
 
 https://github.com/ocryptocode/aalex
-## models 
-nlp
-
-gpt
-
-bert
-
-torch
-
-
-
 
 ## benefits
 
